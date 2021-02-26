@@ -1,5 +1,5 @@
 ---
-title: "iBaraki Stamp Rally"
+title: "Ibaraki Stamp Rally"
 excerpt_separator: "<!--more-->"
 categories:
   - TheBikeShop
