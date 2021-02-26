@@ -1,0 +1,40 @@
+---
+layout: post
+title: "Specialized Diverge"
+category: TheBikeShop
+---
+
+![My Bike](/assets/Diverge E5 2019.jpg)
+
+[Cycleingabout](https://www.cyclingabout.com/2019-specialized-diverge-light-touring-bikes/)
+> Diverge E5 is still a killer bike for the price. You’re getting a really capable frame and fork, a 1:1 climbing gear (26.8 gear inches), Claris 8-speed STI shifters and the same wheelset as the US $2600 Diverge Carbon model! Expect the Diverge E5 to weigh around 11kg (24.3lbs) and you can get your hands on one for just US $1100.
+
+52 Frame Size
+
+Complete Bike Cost = **95,400¥**
+
+Tektro 160-22 Disc Rotor = **13,020¥**
+
+Claris Group set = **28,999¥**
+
+* ST-R2000-L = **12,101¥**
+* ST-R2000-R
+* FD-R2000-F = **2,325¥**
+* FC-RS200 (170 length 46/34T) = **5,341¥**
+* BB-RS500 (BB-UN26) = **1,509¥**
+* RD-R2000-GS = **2,800¥**
+* SunRace CSM66-8AV (11/34T)
+		**11-13-15-18-21-24-28-34**
+* CN-HG71 = **2,050¥**
+
+Tires Espoir Sport Blackbelt 700x30
+= **$25.99**
+
+Rim set Axis 4.0 Disc SCS TA = **$650.00**
+
+# Upgrades Desired
+*Group set*
+
+**Shimano GRX400** 10 Speed Hydraulic Brakes
+Better gear ratio.
+Want closer jump gaps between shifts.
