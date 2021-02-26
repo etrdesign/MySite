@@ -12,7 +12,7 @@ A prefecture in Kanto region of Honshu. It has a population of 2,871,199. Mito i
 
 # Stamp Rally
 
-![The Rally](/assets/The Rally.jpeg)
+![The Rally](/assets/images/The Rally.jpeg)
 
 The station modeled around bikes, you can walk your bike through all the shops and restaurants there are paths marked on the floor. Every store/restaurants have bike racks for storing your bike while you eat. 
 Awesome hotel, can bring bike into room hang on the wall.
