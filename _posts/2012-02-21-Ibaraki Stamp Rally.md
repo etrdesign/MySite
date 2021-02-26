@@ -1,8 +1,12 @@
 ---
-layout: post
-title: "Ibaraki Stamp Rally"
-category: TheBikeShop
+title: "iBaraki Stamp Rally"
+excerpt_separator: "<!--more-->"
+categories:
+  - TheBikeShop
+tags:
+  - Bike Rides
 ---
+
 # Ibaraki
 A prefecture in Kanto region of Honshu. It has a population of 2,871,199. Mito is the capital and the largest city.
 
