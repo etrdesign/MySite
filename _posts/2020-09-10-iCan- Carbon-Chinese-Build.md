@@ -8,7 +8,7 @@ tags:
 ---
 
 # The Frame
-![The Frame](/assets/X-Gravel Frame.png)
+![The Frame](/assets/images/X-Gravel Frame.png)
 
 ##### X-Gravel 52cm 1000g
 
