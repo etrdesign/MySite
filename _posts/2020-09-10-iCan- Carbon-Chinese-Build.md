@@ -1,5 +1,5 @@
 ---
-title: "Post: iCan Chinese Carbon"
+title: "iCan Chinese Carbon"
 excerpt_separator: "<!--more-->"
 categories:
   - TheBikeShop
