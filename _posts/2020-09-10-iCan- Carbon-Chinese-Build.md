@@ -1,8 +1,12 @@
 ---
-layout: post
-title: "iCan Bike Build"
-category: TheBikeShop
+title: "Post: iCan Chinese Carbon"
+excerpt_separator: "<!--more-->"
+categories:
+  - TheBikeShop
+tags:
+  - Complete Bike
 ---
+
 # The Frame
 ![The Frame](/assets/X-Gravel Frame.png)
 
