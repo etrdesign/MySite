@@ -1,7 +1,10 @@
 ---
-layout: post
-title: "Navy Lodge Towers"
-category: 360
+title: "Navy Lodge Yokosuka Towers"
+excerpt_separator: "<!--more-->"
+categories:
+  - 360˚
+tags:
+  - Virtual Tours
 ---
 
 ## Virtual Tour
