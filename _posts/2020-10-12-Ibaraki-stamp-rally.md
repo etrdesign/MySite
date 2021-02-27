@@ -10,5 +10,6 @@ tags:
 
 ![The Rally]/assets/images/TheRally.png
 
-[The Rally](assets/images/therally.png)
+/Testing.png
+
 
