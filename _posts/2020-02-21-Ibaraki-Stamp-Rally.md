@@ -23,4 +23,4 @@ Total kilos road for the rally?
 Prizes for every step in the rally
 
 **How was the bike paths?**
-Bike Pathes
+Bike Pathes were in great coonditon, They encoompass the entire lake. The rally was only on the one side of the lake, 17km.
