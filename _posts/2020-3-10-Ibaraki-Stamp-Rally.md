@@ -6,7 +6,6 @@ categories:
 tags:
   - Bike Rides
 ---
-
 # Ibaraki
 A prefecture in Kanto region of Honshu. It has a population of 2,871,199. Mito is the capital and the largest city.
 
