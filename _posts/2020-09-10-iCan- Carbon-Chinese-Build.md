@@ -35,8 +35,8 @@ iCan
 |Frame X-Gravel(52cm)| |¥52,000|1091g|
 |Fork iCan| | |395g|
 |Wheel set BD40 Disc| |¥40,000|1355g|
-|Head Tube Stack Carbon Fiber Spacers| | |¥490|
-|ChaoYang Tube|700x33-37C| |¥1,105|
+|Head Tube Stack Carbon Fiber Spacers| |¥490|
+|ChaoYang Tube|700x33-37C|¥1,105|
 	| |700x33-37C|¥1,105|
 |ChaoYang Tire|700x35C H-5224|¥3,562|450g|
 	| |700x35C H-5224|¥3,562|450g|
@@ -49,7 +49,7 @@ iCan
 |R Brake Hose|SM-BH90-JK-SSR 1700mm|¥3,562|
 |F Brake Hose|SM-GH90-JK-SSR 1000mm|¥2,907|
 |Shift Cable Set|Y60098022|¥1,641|
-|Stem Spacers Red Set|¥1,800|
+|Stem Spacers Red Set| |¥1,800|
 |Toseek	Seat| |¥4,999|150g|
 
 |TOTALS|¥219,769|
