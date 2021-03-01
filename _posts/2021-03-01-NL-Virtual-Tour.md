@@ -1,3 +1,3 @@
 #Virtual Tour
 
-[The Tour]()
+[The Tour](https://etrdesign.github.io/Navy-Lodge-Towers/)
