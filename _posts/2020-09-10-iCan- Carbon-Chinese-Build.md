@@ -17,18 +17,7 @@ My frame is un-painted. Carbon color. The frame came in great shape really profe
 
 # The Fork
 iCan
-# The Groupset
-### Shimano GRX-600
-
-| Nomenclature | Part Number  | Price |Weight  |
-|:--|:--|:--|:--|
-| Crank  | FC-RX600-1 | ¥11,371	 | 743g |
-| Right Shifter | ST-RX600-R | ¥15,819| 307g |
-| Left Brake Lever | BL-RX600-L	 | ¥13,686| 227g |
-| Rear Derailleur |RD-RX810	  | ¥8,989|  255g |
-| Bottom Bracket | SM-BBR60 | ¥2,320 | 69g |
-| Cassette | CSR-8000 | ¥6,335 | 232g |
-| Chain | CH-HG701-11 | ¥3,852 | 257g |
+# The Groupset ###### (Shimano GRX-600)
 
 |Nomenclature|Model #|Cost in ¥|Weight|	
 |:--|:--|:--|:--|
