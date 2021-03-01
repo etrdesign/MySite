@@ -8,4 +8,4 @@ tags:
 ---
 ## Ibaraki Stamp Rally
 
-![TheRally](assets/images/TheRally.png)
+![TheRally](assets/images/The Rally.jpg)
