@@ -1,5 +1,4 @@
 ---
-title: "New Towers"
 excerpt_separator: "<!--more-->"
 categories:
   - 360
