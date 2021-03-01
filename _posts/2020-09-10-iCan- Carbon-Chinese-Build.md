@@ -53,4 +53,3 @@ iCan
 |Toseek	Seat| |¥4,999|150g|
 
 |TOTALS|¥219,769|
-|Remaining Cost|¥157,397|
