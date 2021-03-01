@@ -40,28 +40,28 @@ iCan
 |Cassette|CSR-8000|¥6,335|232g|
 |Chain|CH-HG701-11|¥3,852|257g|
 |Brakes|BR-RX400F|¥4,430|143g|
-	||BR-RX400R|¥4,010|143g|
-Disc Rotor	SM-RT800 (140mm)	¥4,568	108	FALSE
-	SM-RT800 (140mm)	¥4,568	108	FALSE
-Frame	X-Gravel (52cm)	¥52,000	1091	FALSE
-Fork	iCan		395	FALSE
-Wheel set	BD40 Disc	¥40,000	1355	FALSE
-Head Tube Stack	Carbon Fiber Spacers	¥490		FALSE
-ChaoYang Tube	700x33-37C	¥1,105		FALSE
-	700x33-37C	¥1,105		FALSE
-ChaoYang Tire	700x35C H-5224	¥3,562	450	FALSE
-	700x35C H-5224	¥3,562	450	FALSE
-RXL	Stem	¥3,299	200	FALSE
-RXL	Drop Bar	¥7,900	150	FALSE
-Bar End Tape	Supacaz Sticky Kush	¥3,499		FALSE
-Pedals	Wellgo WR001	¥4,880	224	FALSE
-Brake Bleed Kit	TL-BT03S	¥2,587		FALSE
-Brake Fluid	Y83998020	¥923		FALSE
-R Brake Hose	SM-BH90-JK-SSR 1700mm	¥3,562		FALSE
-F Brake Hose	SM-GH90-JK-SSR 1000mm	¥2,907		FALSE
-Shift Cable Set	Y60098022	¥1,641		FALSE
-Stem Spacers	Red Set	¥1,800		FALSE
-Toseek	Seat	¥4,999	150	FALSE
-TOTALS		¥219,769	7057	
-Remaining Cost		¥157,397		
-|  |  |  |  |
+	| |BR-RX400R|¥4,010|143g|
+|Disc Rotor|SM-RT800 (140mm)|¥4,568|108g|
+	| |SM-RT800 (140mm)|¥4,568|108g|
+|Frame X-Gravel (52cm)|¥52,000|1091g|
+|Fork iCan|395g|
+|Wheel set BD40 Disc|¥40,000|1355g|
+|Head Tube Stack Carbon Fiber Spacers|¥490|
+|ChaoYang Tube 700x33-37C|¥1,105|
+	| |700x33-37C|¥1,105|
+|ChaoYang Tire	700x35C H-5224|¥3,562|450g|
+	| |700x35C H-5224|¥3,562|450g|
+|RXL Stem|¥3,299|200g|
+|RXL Drop Bar|¥7,900|150g|
+|Bar End Tape Supacaz Sticky Kush|¥3,499|
+|Pedals	Wellgo WR001|¥4,880|224g|
+|Brake Bleed Kit TL-BT03S|¥2,587|
+|Brake Fluid Y83998020|¥923|
+|R Brake Hose SM-BH90-JK-SSR 1700mm|¥3,562|
+|F Brake Hose SM-GH90-JK-SSR 1000mm|¥2,907|
+|Shift Cable Set Y60098022|¥1,641|
+|Stem Spacers Red Set|¥1,800|
+|Toseek	Seat|¥4,999|150g|
+
+|TOTALS|¥219,769|
+|Remaining Cost|¥157,397|
