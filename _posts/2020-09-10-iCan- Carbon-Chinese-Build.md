@@ -30,18 +30,17 @@ iCan
 | Cassette | CSR-8000 | ¥6,335 | 232g |
 | Chain | CH-HG701-11 | ¥3,852 | 257g |
 
-| Nomenclature | Model # | Cost in ¥ | Weight in grams |	
+|Nomenclature|Model #|Cost in ¥|Weight|	
 |:--|:--|:--|:--|
-| Shifters | ST-RX600-R | ¥15,819 | 307g |
-| BL-RX600-L | ¥13,686 | 227g |
-| Crank | FC-RX600-1 | ¥11,371 | 743g |
-| Rear Derailleur | RD-RX810 | ¥8,989 | 255g |
-
-Bottom Bracket	SM-BBR60	¥2,320	 69g	
-Cassette	 CSR-8000	¥6,335	 232g
-Chain	CH-HG701-11	¥3,852 	257g	
-Brakes	 BR-RX400F	 ¥4,430	143g
-			BR-RX400R	¥4,010	 143g
+|Shifters|ST-RX600-R|¥15,819|307g|
+|BL-RX600-L|¥13,686|227g|
+|Crank|FC-RX600-1|¥11,371|743g|
+|Rear Derailleur|RD-RX810|¥8,989|255g|
+|Bottom Bracket|SM-BBR60|¥2,320|69g|	
+|Cassette|CSR-8000|¥6,335|232g|
+|Chain|CH-HG701-11|¥3,852|257g|
+|Brakes|BR-RX400F|¥4,430|143g|
+	||BR-RX400R|¥4,010|143g|
 Disc Rotor	SM-RT800 (140mm)	¥4,568	108	FALSE
 	SM-RT800 (140mm)	¥4,568	108	FALSE
 Frame	X-Gravel (52cm)	¥52,000	1091	FALSE
