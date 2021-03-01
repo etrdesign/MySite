@@ -2,7 +2,7 @@
 title: "New Towers"
 excerpt_separator: "<!--more-->"
 categories:
-  - 360˚
+  - 360
 tags:
   - Virual Tours
 ---
