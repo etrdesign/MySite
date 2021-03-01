@@ -22,7 +22,7 @@ iCan
 |Nomenclature|Model #|Cost in ¥|Weight|	
 |:--|:--|:--|:--|
 |Shifters|ST-RX600-R|¥15,819|307g|
-|BL-RX600-L|¥13,686|227g|
+| |BL-RX600-L|¥13,686|227g|
 |Crank|FC-RX600-1|¥11,371|743g|
 |Rear Derailleur|RD-RX810|¥8,989|255g|
 |Bottom Bracket|SM-BBR60|¥2,320|69g|	
@@ -32,16 +32,16 @@ iCan
 	| |BR-RX400R|¥4,010|143g|
 |Disc Rotor|SM-RT800 (140mm)|¥4,568|108g|
 	| |SM-RT800 (140mm)|¥4,568|108g|
-|Frame X-Gravel (52cm)|¥52,000|1091g|
-|Fork iCan|395g|
+|Frame X-Gravel(52cm)| |¥52,000|1091g|
+|Fork iCan| |395g|
 |Wheel set BD40 Disc|¥40,000|1355g|
 |Head Tube Stack Carbon Fiber Spacers|¥490|
-|ChaoYang Tube 700x33-37C|¥1,105|
+|ChaoYang Tube 700x33-37C| |¥1,105|
 	| |700x33-37C|¥1,105|
 |ChaoYang Tire	700x35C H-5224|¥3,562|450g|
 	| |700x35C H-5224|¥3,562|450g|
-|RXL Stem|¥3,299|200g|
-|RXL Drop Bar|¥7,900|150g|
+|RXL Stem| |¥3,299|200g|
+|RXL Drop Bar| |¥7,900|150g|
 |Bar End Tape Supacaz Sticky Kush|¥3,499|
 |Pedals	Wellgo WR001|¥4,880|224g|
 |Brake Bleed Kit TL-BT03S|¥2,587|
