@@ -1,4 +1,4 @@
 
 ## Ibaraki Stamp Rally
 
-![TheRally](assets/images/The Rally.jpg)
+[[assets/images/The Rally.jpg]]
