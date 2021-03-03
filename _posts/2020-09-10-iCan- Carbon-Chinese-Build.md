@@ -4,7 +4,7 @@ excerpt_separator: "<!--more-->"
 categories:
   - TheBikeShop
 tags:
-  - Complete Bike
+  - Bike Builds
 ---
 
 # The Frame
