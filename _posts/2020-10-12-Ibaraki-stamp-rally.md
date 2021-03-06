@@ -9,8 +9,3 @@ tags:
 ## The Rally
 
 ![The Rally](/assets/images/The Rally.jpg)
-
-
-Hotel Images
-
-[Some Pics of the hotel]()
