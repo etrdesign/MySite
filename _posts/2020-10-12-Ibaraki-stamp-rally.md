@@ -8,4 +8,4 @@ tags:
 
 ## The Rally
 
-![](/assets/images/ibaraki/img_0006.JPG)
+![](/assets/images/ibaraki/IMG_0006.JPG)
