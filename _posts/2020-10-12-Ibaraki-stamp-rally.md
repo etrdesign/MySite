@@ -6,6 +6,6 @@ tags:
   - Bike Rides
 ---
 
-## The Start
+## The Rally
 
-![The Rally](/assets/images/The Rally.jpg)
+![](/assets/images/ibaraki/img_0006.JPG)

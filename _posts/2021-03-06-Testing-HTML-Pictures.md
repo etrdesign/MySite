@@ -17,3 +17,7 @@
 <img src="https://i.imgur.com/WLdNsxN.png"width=25%/>
 <figcaption> Oda Clan </figcaption>
 </figure>
+
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
