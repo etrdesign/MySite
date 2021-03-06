@@ -6,6 +6,6 @@ tags:
   - Bike Rides
 ---
 
-## The Rally
+## The Start
 
-![](/assets/images/The Rally.jpg)
+![The Rally](/assets/images/The Rally.jpg)
