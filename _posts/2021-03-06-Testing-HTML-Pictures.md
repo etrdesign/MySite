@@ -10,7 +10,7 @@ Very confusing what works
 <img align="right" width="100" height="100" src="https://i.imgur.com/WLdNsxN.png">
 a lot of different info on the web nothing seems to work the way all the code is pasted. Hopefully this will make sense some time in the future for me.
 
-<p float="center">
+<p align="center">
   <img src="https://i.imgur.com/WLdNsxN.png" width="75" />
   <img src="https://i.imgur.com/WLdNsxN.png" width="75" /> 
   <img src="https://i.imgur.com/WLdNsxN.png" width="75" />
