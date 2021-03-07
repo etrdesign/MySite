@@ -10,7 +10,7 @@
 </td>
 <td> 
   <p align="center">
-    <img alt="Routing" src="https://i.imgur.com/WLdNsxN.png" width="515">
+    <img alt="Routing" src="https://i.imgur.com/WLdNsxN.png" width="320">
     <br>
     <em style="color: grey">Oda Clan 2</em>
   </p> 
