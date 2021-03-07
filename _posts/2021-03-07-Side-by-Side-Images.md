@@ -1,4 +1,4 @@
-# Side by Side Images
+# Daimyo Clans
 
 <table><tr>
 <td> 
