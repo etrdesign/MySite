@@ -10,5 +10,8 @@ tags:
 
 ![](/assets/images/ibaraki/IMG_0006.JPG)
 
+<p align="center">
 ### The Reward!
-![Two A4 File Folders](https://user-images.githubusercontent.com/63577744/110336351-20317b80-8068-11eb-8cc6-524610afcd01.png)
+<p align="center">
+![](https://user-images.githubusercontent.com/63577744/110336351-20317b80-8068-11eb-8cc6-524610afcd01.png)
+</p>
