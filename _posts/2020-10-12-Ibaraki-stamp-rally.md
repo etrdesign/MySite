@@ -11,11 +11,10 @@ tags:
 ![](/assets/images/ibaraki/IMG_0006.JPG)
 
 ## The Stamps
-|:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="100" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://i.imgur.com/WLdNsxN.png">  blah |  <img width="100" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://i.imgur.com/WLdNsxN.png"> help |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://i.imgur.com/WLdNsxN.png">|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
 
+| Stamp#1 | Stamp#2 |
+|:--|:--|
+| ![Stamp #1](https://user-images.githubusercontent.com/63577744/110466552-406d4300-8119-11eb-8b20-17e710275e1d.PNG) | ![Stamp #2](https://user-images.githubusercontent.com/63577744/110467211-149e8d00-811a-11eb-9fb4-91a59ec50ffd.PNG) |
 
 ### The Reward!
 <p align="center">
