@@ -39,4 +39,4 @@ Awesome aesthetics!
   <img src="https://user-images.githubusercontent.com/63577744/110336351-20317b80-8068-11eb-8cc6-524610afcd01.png">
 </p>
 
-## The Wrap Up
+## The Wrap
