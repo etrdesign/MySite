@@ -23,7 +23,16 @@ tags:
 
 | Stamp#7 | Stamp#8 | Stamp#9 |
 |:-:|:-:|:-:|
-|![Stamp #7](https://user-images.githubusercontent.com/63577744/110467575-8971c700-811a-11eb-83c4-d461fa51cd99.PNG)|![Stamp #8](https://user-images.githubusercontent.com/63577744/110467784-c63dbe00-811a-11eb-9eb2-8c5ebcfe1d25.PNG)| lost photo :rage :
+|![Stamp #7](https://user-images.githubusercontent.com/63577744/110467575-8971c700-811a-11eb-83c4-d461fa51cd99.PNG)|![Stamp #8](https://user-images.githubusercontent.com/63577744/110467784-c63dbe00-811a-11eb-9eb2-8c5ebcfe1d25.PNG)|      😡
+
+| Stamp#10 | Stamp#11 | Stamp#12 |
+|:-:|:-:|:-:|
+| ![Stamp #10](https://user-images.githubusercontent.com/63577744/110467845-d786ca80-811a-11eb-860b-291765174d01.PNG)| ![Stamp #11](https://user-images.githubusercontent.com/63577744/110467901-eb323100-811a-11eb-8a5e-cec038b2691c.PNG)| ![Stamp #12](https://user-images.githubusercontent.com/63577744/110467953-fb4a1080-811a-11eb-8c77-123055f8be4c.PNG)
+
+| Stamp#13 | Stamp#14 | Stamp#15 |
+|:-:|:-:|:-:|
+| ![Stamp #13](https://user-images.githubusercontent.com/63577744/110468011-0e5ce080-811b-11eb-88a6-39714032739b.PNG)| ![Stamp #14](https://user-images.githubusercontent.com/63577744/110468062-1ddc2980-811b-11eb-8679-383a16b02f93.PNG)| ![Stamp #15](https://user-images.githubusercontent.com/63577744/110468123-377d7100-811b-11eb-9e84-ffb86f098b6e.PNG)
+
 
 ## The Reward!
 <p align="center">
