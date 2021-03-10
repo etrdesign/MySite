@@ -16,7 +16,6 @@ tags:
 |:-:|:-:|:-:|
 | ![Stamp #1](https://user-images.githubusercontent.com/63577744/110466552-406d4300-8119-11eb-8b20-17e710275e1d.PNG) | ![Stamp #2](https://user-images.githubusercontent.com/63577744/110467211-149e8d00-811a-11eb-9fb4-91a59ec50ffd.PNG) | ![Stamp #3](https://user-images.githubusercontent.com/63577744/110467255-25e79980-811a-11eb-9af5-5ff65bcc542a.PNG)
 
-
 | Stamp#4 | Stamp#5 | Stamp#6 |
 |:-:|:-:|:-:|
 | ![Stamp #4](https://user-images.githubusercontent.com/63577744/110467309-34ce4c00-811a-11eb-9ddd-628e27ff75e6.PNG)| ![Stamp #5](https://user-images.githubusercontent.com/63577744/110467455-62b39080-811a-11eb-8053-4fb5e97f1086.PNG)| ![Stamp #6](https://user-images.githubusercontent.com/63577744/110467525-7b23ab00-811a-11eb-9e78-1f5eb0b0c22f.PNG)
@@ -32,7 +31,6 @@ tags:
 | Stamp#13 | Stamp#14 | Stamp#15 |
 |:-:|:-:|:-:|
 | ![Stamp #13](https://user-images.githubusercontent.com/63577744/110468011-0e5ce080-811b-11eb-88a6-39714032739b.PNG)| ![Stamp #14](https://user-images.githubusercontent.com/63577744/110468062-1ddc2980-811b-11eb-8679-383a16b02f93.PNG)| ![Stamp #15](https://user-images.githubusercontent.com/63577744/110468123-377d7100-811b-11eb-9e84-ffb86f098b6e.PNG)
-
 
 ## The Reward!
 <p align="center">
