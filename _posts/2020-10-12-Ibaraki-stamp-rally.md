@@ -7,8 +7,9 @@ tags:
 ---
 
 ## The Rally
+![](https://user-images.githubusercontent.com/63577744/110628712-b2f82480-81e6-11eb-9aaf-e691e6259e93.JPG)
 
-![](/assets/images/ibaraki/IMG_0006.JPG)
+## The Hotel and Surroundings
 
 ## The Stamps
 
