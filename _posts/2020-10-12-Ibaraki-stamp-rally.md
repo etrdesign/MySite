@@ -23,7 +23,7 @@ tags:
 
 | Stamp#7 | Stamp#8 | Stamp#9 |
 |:-:|:-:|:-:|
-|![Stamp #7](https://user-images.githubusercontent.com/63577744/110467575-8971c700-811a-11eb-83c4-d461fa51cd99.PNG)|![Stamp #8](https://user-images.githubusercontent.com/63577744/110467784-c63dbe00-811a-11eb-9eb2-8c5ebcfe1d25.PNG)|      😡
+|![Stamp #7](https://user-images.githubusercontent.com/63577744/110467575-8971c700-811a-11eb-83c4-d461fa51cd99.PNG)|![Stamp #8](https://user-images.githubusercontent.com/63577744/110467784-c63dbe00-811a-11eb-9eb2-8c5ebcfe1d25.PNG)|![Stamp #9](https://user-images.githubusercontent.com/63577744/110623664-817c5a80-81e0-11eb-9d1d-5d14b28615c4.jpg)
 
 | Stamp#10 | Stamp#11 | Stamp#12 |
 |:-:|:-:|:-:|
