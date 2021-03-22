@@ -11,7 +11,7 @@ tags:
 
 [RingRing Road official page](https://www.ringringroad.com/english/square/) [^Official Website]
 
-## The Hotel and Surroundings
+## The Hotel
 Awesome aesthetics!
 
 ## The Stamps
